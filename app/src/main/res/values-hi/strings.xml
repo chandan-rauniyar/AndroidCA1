@@ -5,13 +5,13 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-    <string name="welcome">Welcome</string>
-    <string name="login">Login</string>
-    <string name="hello_user">Hello, %s</string>
+    <string name="welcome">स्वागत है</string>
+    <string name="login">लॉगिन</string>
+    <string name="hello_user">नमस्ते, %s</string>
 
     <plurals name="item_count">
-        <item quantity="one">%d item</item>
-        <item quantity="other">%d items</item>
+    <item quantity="one">%d वस्तु</item>
+    <item quantity="other">%d वस्तुएँ</item>
     </plurals>
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
@@ -52,5 +52,4 @@
     <string name="title_activity_send_data_screen">SendDataScreen</string>
     <string name="title_activity_app_navigation">AppNavigation</string>
     <string name="title_activity_scaffold_ex">ScaffoldEx</string>
-    <string name="title_activity_ca2">CA2_Activity</string>
 </resources>
