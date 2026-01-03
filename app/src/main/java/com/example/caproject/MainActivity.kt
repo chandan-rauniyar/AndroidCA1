@@ -73,7 +73,7 @@ class MainActivity : ComponentActivity() {
 //                basicRadioButton()
 //                  twoRadioButton()
 //                radioGroupButton()
-                ImplicitIntentScreen2()
+                  ImplicitIntentScreen2()
 
 
 

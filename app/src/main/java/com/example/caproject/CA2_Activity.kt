@@ -48,6 +48,7 @@ class CA2_Activity : ComponentActivity() {
 }
 
 
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Preview(showBackground = true, widthDp = 400, heightDp = 700)
 @Composable

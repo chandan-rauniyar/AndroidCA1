@@ -53,4 +53,6 @@
     <string name="title_activity_app_navigation">AppNavigation</string>
     <string name="title_activity_scaffold_ex">ScaffoldEx</string>
     <string name="title_activity_ca2">CA2_Activity</string>
+    <string name="title_activity_themes_ex">ThemesEx</string>
+    <string name="title_activity_permission_ex">PermissionEx</string>
 </resources>
